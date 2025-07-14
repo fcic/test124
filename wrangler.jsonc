@@ -1,5 +1,5 @@
 {
-  "name": "cronicle-worker",
+  "name": "cronicle",
   "compatibility_date": "2025-07-14",
   "main": "src/worker.js"
 }
